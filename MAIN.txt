@@ -1,0 +1,20 @@
+const email = useRef();    
+const password = useRef();
+
+const [enteredValue, setEnteredValue] = useState({
+    email: "",
+    password: "",
+});
+
+const fd = new FormData(event.target);
+    const acquisitionChannel = fd.getAll("acquisition");
+    const data = Object.fromEntries(fd.entries());
+    data.acquisitionChannel = acquisitionChannel;
+
+const emailIsInvalid = didEdit.email && !enteredValue.email.includes("@");
+
+const emailIsValid = enteredEmail.includes("@");
+
+
+
+
