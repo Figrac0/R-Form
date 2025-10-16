@@ -8,7 +8,7 @@ It covers working with **browser APIs**, **React state**, **refs**, and **custom
 <h3 align="center">📸 Project Preview</h3>
 
 <p align="center">
-  <img src="./src/assets/1.png" alt="Preview 1" width="650" height="400"/><br/>
+  <img src="./src/assets/1.png" alt="Preview 1" width="650" height="700"/><br/>
   <em>Example of form validation and controlled inputs</em>
 </p>
 
