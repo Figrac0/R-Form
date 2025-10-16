@@ -1,0 +1,9 @@
+action={signupAction}
+.get
+const [formState, formAction] = useActionState(signupAction, {
+        errors: null,
+    });
+ defaultChecked={formState.enteredValues?.acquisitionChannel.includes(
+                            "other"
+                        )}
+defaultValue={formState.enteredValues?.lastName}
