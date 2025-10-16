@@ -13,7 +13,7 @@ It covers working with **browser APIs**, **React state**, **refs**, and **custom
 </p>
 
 <p align="center">
-  <img src="./src/assets/2.png" alt="Preview 2" width="650" height="400"/><br/>
+  <img src="./src/assets/2.png" alt="Preview 2" width="650" height="700"/><br/>
   <em>Reusable input components and validation logic in action</em>
 </p>
 
