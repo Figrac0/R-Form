@@ -48,11 +48,13 @@ The project demonstrates how to:
 - `required` attribute ensures non-empty fields  
 - `minLength={6}` enforces basic password strength  
 - Simple helpers for readability:
+- 
   ```js
   export function isEmail(value) { return value.includes('@'); }
   export function hasMinLength(value, min) { return value.length >= min; }
-```
+  ```
 ## Example Code (simplified)
+
 ```js
 import { useState, useRef } from "react";
 
